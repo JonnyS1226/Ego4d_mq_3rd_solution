@@ -10,7 +10,7 @@ Please follow Ego4d instructions to download the features needed (slowfast & omn
 
 
 ## Training & Evaluation
-update the config yaml file, modify the yaml name in train_val.sh and run:
+Update the config yaml file, modify the yaml name in train_val.sh and run:
 ```
 bash train_val.sh
 ```
