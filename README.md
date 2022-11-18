@@ -5,7 +5,7 @@
 ## Install
 Please refer to [actionformer](https://github.com/happyharrycn/actionformer_release) to prepare for the environment
 
-Please follow Ego4d instruction to download the features needed (slowfast & omnivore) and modify the config yaml file.
+Please follow Ego4d instructions to download the features needed (slowfast & omnivore) and modify the config yaml file (data path and other parameters).
 
 
 
