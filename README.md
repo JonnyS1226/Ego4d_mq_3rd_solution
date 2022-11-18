@@ -18,4 +18,4 @@ bash train_val.sh
 
 ## Acknowledgements
 
-Our code is largely borrowed from [actionformer](https://github.com/happyharrycn/actionformer_release), so really thanks for their inspiring work and opensource.
+Our codes are largely borrowed from [actionformer](https://github.com/happyharrycn/actionformer_release), so really thanks for their inspiring work and opensource.
