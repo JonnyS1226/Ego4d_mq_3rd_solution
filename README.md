@@ -1,4 +1,4 @@
-# Ego4d Moment Query Challenge 3-rd
+# Ego4d Moment Query Challenge 3-rd solution
 * tech report: http://arxiv.org/abs/2211.09558
 
 
